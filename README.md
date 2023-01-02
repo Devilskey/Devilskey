@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [devilskey.eu](devilskey.eu)
 
-- 💬 Ask me about **unity, c#**
+- 💬 Ask me about unity, c#
 
 <p align="left">
 </p>
